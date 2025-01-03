@@ -10,3 +10,7 @@
 8. Peak calling
 9. Heatmaps Gene x Peaks
 10. Differential analysis
+
+
+This tutorial is based on: 
+Zheng Y et al (2020).
